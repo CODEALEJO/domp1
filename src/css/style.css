@@ -1,0 +1,17 @@
+@import url('normalize.css');
+/* normalize.css es un archivo que nos ayuda a estar en todos los navegadores */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+/*importo los iconos de boostrap */
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap');
+/* importamos la fuente */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    text-align: center;
+     font-family: "Coming Soon", cursive;
+}
